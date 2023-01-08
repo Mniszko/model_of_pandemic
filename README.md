@@ -1,4 +1,4 @@
-Model uses matplotlibcpp library to generate animations pf circles representing healthy and diseased individuals in closed environment.
+Model uses matplotlibcpp library to generate animations including circles in a box representing healthy and diseased individuals in closed environment. 
 
 # BUILDING PROGRAM
 
